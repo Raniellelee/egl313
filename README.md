@@ -52,7 +52,8 @@ C-->B
 C-->D[lights up according to code]
 
 ```
-import time
+
+``` import time
 from rpi_ws281x import *
 
 # LED strip configuration:
